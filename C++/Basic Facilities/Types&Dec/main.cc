@@ -2,6 +2,7 @@
 
 /**
  * @printVars() - print various assigned variables
+ * @printSize() - print size of various types
 */
 
 
@@ -49,3 +50,4 @@ void printSize()
     LOG(sizeof(pvars->myUnsignedInt));
     LOG(sizeof(vars));
 }
+
