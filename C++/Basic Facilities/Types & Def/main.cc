@@ -34,6 +34,9 @@ void printVars()
     cout<< "Long Long Int : " <<pvars->myLongLongInt<<" \n";
     cout<< "Signed Int : " <<pvars->mySignedInt<<" \n";
     cout<< "Unsigned Int : " <<pvars->myUnsignedInt<<" \n";
+
+ 
+
 }
 
 void printSize()
